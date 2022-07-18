@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+#box
+{
+   background-color: rgb(212, 221, 221);
+   height: 300px;
+   width: 700px;
+   display: none;
+}
+i
+{
+    float: right;
+}
+.clicks{
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(204, 72, 10);
+    color: white;
+}
